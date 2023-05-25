@@ -11,18 +11,18 @@ const button_component = ({ img_url, img_alt, link_url }) => {
 
 const buttons = [{
     img_alt: 'facebook_icon',
-    img_url: './images/fb.png',
+    img_url: 'https://raw.githubusercontent.com/R00rss/scripts_modulos/main/images/fb.png',
     link_url: 'https://www.facebook.com/'
 },
 {
     img_alt: 'instagram_icon',
-    img_url: './images/ins.png',
+    img_url: 'https://raw.githubusercontent.com/R00rss/scripts_modulos/main/images/ins.png',
     link_url: 'https://www.instagram.com/'
 
 },
 {
     img_alt: 'WhatsApp_icon',
-    img_url: './images/wp.png',
+    img_url: 'https://raw.githubusercontent.com/R00rss/scripts_modulos/main/images/wp.png',
     link_url: 'https://www.whatsapp.com/'
 
 }]
