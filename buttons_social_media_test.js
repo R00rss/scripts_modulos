@@ -98,7 +98,7 @@ const styles_container = document.createElement('style');
 buttons_container.setAttribute('id', 'social_networks_buttons');
 button_open.setAttribute('id', 'button_chat_social_networks');
 button_open.innerHTML = `
-<img src="https://github.com/R00rss/scripts_modulos/blob/a15c7a53360b13a53ac1a2b907ab92d6d1b8c952/images/chat.png" alt="open_buttons_chat">
+<img src="https://raw.githubusercontent.com/R00rss/scripts_modulos/main/images/chat.png" alt="open_buttons_chat">
     <p>chatea con nosotros</p> 
 </img>
 
